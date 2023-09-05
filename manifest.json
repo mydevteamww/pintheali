@@ -3,16 +3,16 @@
   "description": "Bed Rock Entertainments",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Gold - Digger Classic",
+  "name": "Pin the -UFO",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Gold - Digger Classic",
+  "short_name": "Pin the -UFO",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
     "games"
   ],
-  "screenshots": [
+   "screenshots": [
     {
       "src": "images/screenshot1.png",
       "sizes": "1919x1024",
@@ -48,12 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Gold Digger",
-      "url": "https://lutzroeder.github.io/digger/",
-      "description": "Play Gold Digger Classic"
+      "name": "Pin the -UFO",
+      "url": "",
+      "description": ""
     }
-  ],
-  "display_override": [
-    "window-controls-overlay"
   ]
 }
