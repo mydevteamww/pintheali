@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Bed Rock Entertainments",
+  "description": "CodeSculpt Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Pin the -UFO",
+  "name": "Pin the-UFO",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Pin the -UFO",
+  "short_name": "Pin the-UFO",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Pin the -UFO",
+      "name": "Pin the-UFO",
       "url": "",
       "description": ""
     }
