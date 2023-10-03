@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "CodeSculpt Games",
+  "description": "Game Snacks",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Pin the - UFO",
+  "name": "Pin The :UFO	",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Pin the - UFO",
+  "short_name": "Pin The :UFO	",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Pin the - UFO",
+      "name": "Pin The :UFO	",
       "url": "",
       "description": ""
     }
