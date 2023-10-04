@@ -1,18 +1,18 @@
 {
   "background_color": "#ffffff",
-  "description": "Game Snacks",
+  "description": "Pin The :UFO",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Pin The :UFO	",
+  "name": "Pin The :UFO",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Pin The :UFO	",
+  "short_name": "Pin The :UFO",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
     "games"
   ],
-   "screenshots": [
+  "screenshots": [
     {
       "src": "images/screenshot1.png",
       "sizes": "1919x1024",
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Pin The :UFO	",
+      "name": "Pin The :UFO",
       "url": "",
       "description": ""
     }
