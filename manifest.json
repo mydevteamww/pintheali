@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Pin The : UFO",
+  "description": "Pin The:UFO A Fun Game",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Pin The : UFO",
+  "name": "Pin The:UFO",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Pin The : UFO",
+  "short_name": "Pin The:UFO",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Pin The : UFO",
+      "name": "Pin The:UFO",
       "url": "",
       "description": ""
     }
